@@ -1,0 +1,24 @@
+[submodule ".vim/pack/plugins/start/fzf.vim"]
+	path = .vim/pack/plugins/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
+[submodule ".vim/pack/plugins/start/vim-airline-themes"]
+	path = .vim/pack/plugins/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule ".vim/pack/plugins/start/vim-airline"]
+	path = .vim/pack/plugins/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule ".vim/pack/plugins/start/vim-go"]
+	path = .vim/pack/plugins/start/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule ".vim/pack/plugins/start/vim-markdown"]
+	path = .vim/pack/plugins/start/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown
+[submodule ".vim/pack/plugins/start/vim-toml"]
+	path = .vim/pack/plugins/start/vim-toml
+	url = https://github.com/cespare/vim-toml
+[submodule ".vim/pack/plugins/start/vim-sensible"]
+	path = .vim/pack/plugins/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible
+[submodule ".vim/bundle/Vundle.vim"]
+	path = .vim/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git

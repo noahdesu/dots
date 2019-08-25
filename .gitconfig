@@ -1,0 +1,25 @@
+
+[user]
+    name = Noah Watkins
+    email = noahwatkins@gmail.com
+
+[color]
+    diff = auto
+    ui = true
+
+[core]
+    editor = /usr/bin/vim
+    excludesfile = ~/.gitignore_global
+
+[log]
+    decorate = full
+
+[sendemail]
+    smtpEncryption = tls
+    smtpServer = smtp.gmail.com
+    smtpUser = noahwatkins@gmail.com
+    smtpServerPort = 587
+
+[alias]
+  pr = !"pr() { git fetch origin pull/$1/head:pr-$1; }; pr"
+  cp = cherry-pick
